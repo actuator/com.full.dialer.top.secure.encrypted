@@ -11,7 +11,7 @@ This report details a potential vulnerability within the "Full Dialer" Version 1
 
 ### Description
 
-The DialerActivity within the com.full.dialer.top.secure.encrypted package of the "Full Dialer" app is marked as exported. This configuration allows third-party applications on the same device to invoke it and initiate phone calls without user interaction.
+The DialerActivity within the com.full.dialer.top.secure.encrypted package of the "Full Dialer" app is marked as exported. This configuration allows third-party applications without any permissions on the same device to invoke it and initiate phone calls without user interaction.
 
 ### Code Reference:
 
