@@ -5,7 +5,7 @@
 
 ## Overview
 
-This report details a potential vulnerability within the "Full Dialer" Version 1.0.1 for Android application and pertains to a lack of input validation for received intents.
+This report details a  vulnerability within the "Full Dialer" Version 1.0.1 for Android application and pertains to the lack of input validation for received intents.
 
 ## Details
 
