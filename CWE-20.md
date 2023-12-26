@@ -45,7 +45,7 @@ public final void onCreate(Bundle bundle) {
 }
 ```
 
-![dial](https://github.com/actuator/com.full.dialer.top.secure.encrypted/assets/78701239/a3765442-98a2-4c79-a01b-3430c120f1da)
+![dial](https://github.com/actuator/com.full.dialer.top.secure.encrypted/blob/main/POC.gif)
 
 
 
